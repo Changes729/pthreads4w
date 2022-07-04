@@ -3,6 +3,8 @@
 #ifndef  __PTW32_CONFIG_H
 #define  __PTW32_CONFIG_H
 
+#include <stdint.h>
+
 /*********************************************************************
  * Defaults: see target specific redefinitions below.
  *********************************************************************/
